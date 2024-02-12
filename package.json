@@ -5,5 +5,16 @@
     "mysql2": "^3.9.1",
     "nodemon": "^3.0.3",
     "sequelize": "^6.36.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "retail.me.your.secrets",
+  "description": "A retail store back-end system using a database, get, and post methods",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
